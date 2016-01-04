@@ -10,8 +10,8 @@ title: Yaa Otchere
 email: yaa@yaaotchere.ca
 description: > # this means to ignore newlines until "baseurl:"
   I am a front end devloper and a youth worker carving out my own unique space in the tech industry.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yaaotchere.github.io/blog" # the base hostname & protocol for your site
+baseurl: "/blog"
+url: "http://yaaotchere.github.io/" # the base hostname & protocol for your site
 twitter_username: yaatotchere
 github_username:  yaaotchere
 
