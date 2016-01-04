@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "An Introduction"
+date: 2016-01-04 10:51:38
 ---
 I'm Yaa! I'm a front-end developer based out of Toronto.
 
