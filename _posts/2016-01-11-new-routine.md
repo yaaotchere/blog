@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "New Routine"
 date: 2016-01-11 07:38:30 -0500
 ---
